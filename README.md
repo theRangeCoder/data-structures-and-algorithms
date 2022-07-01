@@ -13,8 +13,7 @@ This repository contains my solutions to various data structures and algorithms 
 | 7 | Given an arr of size n. Return the second largest element | Arrays | [My code](https://github.com/theRangeCoder/data-structures-and-algorithms/blob/main/Easy/Second%20Largest%20Element.py) |
 | 8 | The Fibonacci numbers, commonly denoted F(n) form a sequence, called the Fibonacci sequence, such that each number is the sum of the two preceding ones, starting from 0 and 1. That is, F(0) = 0, F(1) = 1 and F(n) = F(n - 1) + F(n - 2), for n > 1. Given n, calculate F(n) | Math | [My code](https://github.com/theRangeCoder/data-structures-and-algorithms/blob/main/Easy/Fibonacci%20Number.py) |
 | 9 | The factorial of a positive integer n is the product of all positive integers less than or equal to n. You’re given a number and you have to calculate it’s factorial using the recursive approach. Note: Factorial of 1 = 1, Factorial of 0 = 1 | Math | [My code](https://github.com/theRangeCoder/data-structures-and-algorithms/blob/main/Easy/Factorials.py) |
-| 10 | Given an integer n , return 1(true) if it is a power of two. Otherwise, return 0(false).
-An integer x is said to be in power of two if and only if there exists an integer i such that 2i == x | Math | [My code](https://github.com/theRangeCoder/data-structures-and-algorithms/blob/main/Easy/Twos%20Power.py) |
+| 10 | Given an integer n , return 1(true) if it is a power of two else return 0(false). An integer x is said to be in power of two if and only if there exists an integer i such that 2i == x | Math | [My code](https://github.com/theRangeCoder/data-structures-and-algorithms/blob/main/Easy/Twos%20Power.py) |
 | 11 | Given an integer array 'nums’, return 1(true) if any value appears at least twice in the array, and return 0(false) if every element is distinct | Arrays | [My code](https://github.com/theRangeCoder/data-structures-and-algorithms/blob/main/Easy/Contains%20Duplicate.py) |
 | 12 | 
 
